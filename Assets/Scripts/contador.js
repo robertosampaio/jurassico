@@ -8,13 +8,15 @@ private var posMouse: int;
 function Start () {
 	index = min;
 	posMouse = Input.mousePosition.x;
+	
+	//iTween.MoveTo(this,Vector3(2,0,0),2);
 }
 
 function Update () {
-	if(index < max)
-		Debug.Log(index++);
-	else
-		index = min;
+	//if(index < max)
+	//	Debug.Log(index++);
+	//else
+	//	index = min;
 		
 	this.transform.Translate(Input.GetAxis("Horizontal") * velocidade * Time.deltaTime, 0, Input.GetAxis("Vertical") * velocidade * Time.deltaTime);	
 	this.transform.Rotate(Input.GetAxis("Mouse Y") * 10 * velocidade * Time.deltaTime, -Input.GetAxis("Mouse X") * 10 *velocidade * Time.deltaTime, 0);

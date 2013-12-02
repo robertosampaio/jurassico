@@ -1,9 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\indicadorItem.js">
     <Files>
-      <File FileName="Assets\Scripts\Menu.js" Line="24" Column="2" />
-      <File FileName="Assets\Creditos.js" Line="14" Column="43" />
+      <File FileName="Assets\Scripts\Menu.js" Line="3" Column="20" />
+      <File FileName="Assets\Creditos.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\personagem.js" Line="42" Column="38" />
+      <File FileName="Assets\Scripts\camera.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\monstro.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\contador.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pauseButton.js" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\indicadorItem.js" Line="11" Column="28" />
+      <File FileName="Assets\Scripts\colisaoPedra.js" Line="15" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

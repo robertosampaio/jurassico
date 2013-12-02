@@ -3,7 +3,6 @@ var morreu : boolean = false;
 var velocidade : float;
 
 function Start () {
-	velocidade = 5;
 }
 
 function Update (){
